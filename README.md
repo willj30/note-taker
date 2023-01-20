@@ -22,6 +22,10 @@
   ## Usage
   This project should be used to create notes for yourself as a reminder on things you need to do.
 
+Screenshot:
+
+![alt text](./Develop/public/assets/images/localhost_3001_notes.png)
+
   ## License
   The license this project is under is MIT. For more information, please click the link below:
 
